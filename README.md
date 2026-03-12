@@ -5,6 +5,9 @@
 - ALWAYS CREATE A RESTORE POINT BEFORE DOING ANY TWEAKS OR OPTIMIZATIONS
 
 
+![cat on a pc](https://katzenworld.co.uk/wp-content/uploads/2014/09/img_7562.jpg)
+
+
 [Guides & Tools I Use](https://github.com/fwcct/guides-n-tools)
 
 [Latency Tweaks - *OUTDATED AS OF MARCH 2026*](https://github.com/fwcct/latency)
