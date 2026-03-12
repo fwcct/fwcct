@@ -18,11 +18,11 @@
 
 [Network Tweaks](https://github.com/fwcct/network-tweaks)
 
-[My Specs & Benchmark Proof - *OUTDATED AS OF MARCH 2026* ](https://github.com/fwcct/my-specs-and-benchmark-proof)
+[My Specs & Benchmark Proof - *OUTDATED AS OF MARCH 2026*](https://github.com/fwcct/my-specs-and-benchmark-proof)
 
+[My Audio Filters & Apps I Use](https://github.com/fwcct/audio)
 
-
-*i want this to stay free for ever, i will never charge for an opti as i belive anyone with a pc should have the right to do anything with there pc without being gate kept from some twitter optimizters or some weird "engineer" they call themsleves*
+*i want this to stay free for ever, i will never charge for an opti as i belive anyone with a pc should have the right to do anything with there pc without being gate kept from some twitter optimizer or some weird "technician" they call themsleves*
 <!--
 **fwcct/fwcct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
