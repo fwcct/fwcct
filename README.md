@@ -1,4 +1,4 @@
-## ᓚᘏᗢ 𝓯𝓻𝓮𝓮 optimizations and knowledge base for anyone!            
+## 𝓯𝓻𝓮𝓮 optimizations and knowledge base for anyone! ᓚᘏᗢ            
 
 - PLEASE CHECK MY SPECS IN MY OTHER GITHUB REPO SO YOU KNOW THE HARDWARE I USE FOR THESE TWEAKS, THANKS
 
