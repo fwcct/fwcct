@@ -15,7 +15,7 @@
 
 [Network Tweaks](https://github.com/fwcct/network-tweaks)
 
-[My Specs & Benchmark Proof *OUTDATED AS OF MARCH 2026* ](https://github.com/fwcct/my-specs-and-benchmark-proof)
+[My Specs & Benchmark Proof - *OUTDATED AS OF MARCH 2026* ](https://github.com/fwcct/my-specs-and-benchmark-proof)
 
 <!--
 **fwcct/fwcct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
