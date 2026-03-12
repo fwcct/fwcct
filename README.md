@@ -1,4 +1,4 @@
-## free optimizations and knowledge base for anyone! 👋
+## ᓚᘏᗢ 𝓯𝓻𝓮𝓮 optimizations and knowledge base for anyone!            
 
 - PLEASE CHECK MY SPECS IN MY OTHER GITHUB REPO SO YOU KNOW THE HARDWARE I USE FOR THESE TWEAKS, THANKS
 
@@ -20,6 +20,9 @@
 
 [My Specs & Benchmark Proof - *OUTDATED AS OF MARCH 2026* ](https://github.com/fwcct/my-specs-and-benchmark-proof)
 
+
+
+*i want this to stay free for ever, i will never charge for an opti as i belive anyone with a pc should have the right to do anything with there pc without being gate kept from some twitter optimizters or some weird "engineer" they call themsleves*
 <!--
 **fwcct/fwcct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
