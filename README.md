@@ -4,7 +4,6 @@
 
 - ALWAYS CREATE A RESTORE POINT BEFORE DOING ANY TWEAKS OR OPTIMIZATIONS
 
-![cat on pc]([https://myoctocat.com/assets/images/base-octocat.svg])
 
 [Guides & Tools I Use](https://github.com/fwcct/guides-n-tools)
 
