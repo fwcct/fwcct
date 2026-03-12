@@ -1,4 +1,4 @@
-## Hi there welcome to my GitHub, free optimizations and knowledge base for anyone! 👋
+## free optimizations and knowledge base for anyone! 👋
 
 - PLEASE CHECK MY SPECS IN MY OTHER GITHUB REPO SO YOU KNOW THE HARDWARE I USE FOR THESE TWEAKS, THANKS
 
