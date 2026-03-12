@@ -22,7 +22,7 @@
 
 [My Audio Filters & Apps I Use](https://github.com/fwcct/audio)
 
-*i want this to stay free for ever, i will never charge for an opti as i belive anyone with a pc should have the right to do anything with there pc without being gate kept from some twitter optimizer or some weird "technician" they call themsleves and then charge $150 for an opti that they probably learnt for free from somewhere in the first place*
+*ɪ ᴡᴀɴᴛ ᴛʜɪꜱ ᴛᴏ ꜱᴛᴀʏ ꜰʀᴇᴇ ꜰᴏʀ ᴇᴠᴇʀ, ɪ ᴡɪʟʟ ɴᴇᴠᴇʀ ᴄʜᴀʀɢᴇ ꜰᴏʀ ᴀɴ ᴏᴘᴛɪ ᴀꜱ ɪ ʙᴇʟɪᴠᴇ ᴀɴʏᴏɴᴇ ᴡɪᴛʜ ᴀ ᴘᴄ ꜱʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴛʜᴇ ʀɪɢʜᴛ ᴛᴏ ᴅᴏ ᴀɴʏᴛʜɪɴɢ ᴡɪᴛʜ ᴛʜᴇʀᴇ ᴘᴄ ᴡɪᴛʜᴏᴜᴛ ʙᴇɪɴɢ ɢᴀᴛᴇ ᴋᴇᴘᴛ ꜰʀᴏᴍ ꜱᴏᴍᴇ ᴛᴡɪᴛᴛᴇʀ ᴏᴘᴛɪᴍɪᴢᴇʀ ᴏʀ ꜱᴏᴍᴇ ᴡᴇɪʀᴅ "ᴛᴇᴄʜɴɪᴄɪᴀɴ" ᴛʜᴇʏ ᴄᴀʟʟ ᴛʜᴇᴍꜱʟᴇᴠᴇꜱ ᴀɴᴅ ᴛʜᴇɴ ᴄʜᴀʀɢᴇ $150 ꜰᴏʀ ᴀɴ ᴏᴘᴛɪ ᴛʜᴀᴛ ᴛʜᴇʏ ᴘʀᴏʙᴀʙʟʏ ʟᴇᴀʀɴᴛ ꜰᴏʀ ꜰʀᴇᴇ ꜰʀᴏᴍ ꜱᴏᴍᴇᴡʜᴇʀᴇ ɪɴ ᴛʜᴇ ꜰɪʀꜱᴛ ᴘʟᴀᴄᴇ*
 <!--
 **fwcct/fwcct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
