@@ -1,8 +1,8 @@
 ## 𝔣𝔯𝔢𝔢 𝔬𝔭𝔱𝔦𝔪𝔦𝔷𝔞𝔱𝔦𝔬𝔫𝔰 𝔞𝔫𝔡 𝔨𝔫𝔬𝔴𝔩𝔢𝔡𝔤𝔢 𝔟𝔞𝔰𝔢 𝔣𝔬𝔯 𝔞𝔫𝔶𝔬𝔫𝔢  
 
-- PLEASE CHECK MY SPECS IN MY OTHER GITHUB REPO SO YOU KNOW THE HARDWARE I USE FOR THESE TWEAKS, THANKS
+- ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴍʏ ꜱᴘᴇᴄꜱ ɪɴ ᴍʏ ᴏᴛʜᴇʀ ɢɪᴛʜᴜʙ ʀᴇᴘᴏ ꜱᴏ ʏᴏᴜ ᴋɴᴏᴡ ᴛʜᴇ ʜᴀʀᴅᴡᴀʀᴇ ɪ ᴜꜱᴇ ꜰᴏʀ ᴛʜᴇꜱᴇ ᴛᴡᴇᴀᴋꜱ, ᴛʜᴀɴᴋꜱ
 
-- ALWAYS CREATE A RESTORE POINT BEFORE DOING ANY TWEAKS OR OPTIMIZATIONS
+- ᴀʟᴡᴀʏꜱ ᴄʀᴇᴀᴛᴇ ᴀ ʀᴇꜱᴛᴏʀᴇ ᴘᴏɪɴᴛ ʙᴇꜰᴏʀᴇ ᴅᴏɪɴɢ ᴀɴʏ ᴛᴡᴇᴀᴋꜱ ᴏʀ ᴏᴘᴛɪᴍɪᴢᴀᴛɪᴏɴꜱ
 
 
 ![cat on a pc](https://katzenworld.co.uk/wp-content/uploads/2014/09/img_7562.jpg)
